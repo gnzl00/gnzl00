@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working in OryonTech a cibersecurity company<br>👯 I’m looking to collaborate on proyects that involve specialy AI or related topics to cibersecurity<br>🌱 I’m currently learning kotlin
 
+# 🚀 Sobre mí:
+🔭 Actualmente trabajo en OryonTech, una empresa de ciberseguridad.<br>👯 Busco colaborar en proyectos que involucren especialmente IA o temas relacionados con la ciberseguridad.<br>🌱 Actualmente estoy aprendiendo Kotlin.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalo-pérez-cerdeira-4544432b0) 
